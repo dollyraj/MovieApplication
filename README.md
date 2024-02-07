@@ -1,5 +1,5 @@
 # MovieTicketBooking
-Create a Spring Boot project that will offer movie tickets, shows, reviews and ratings for movies using a REST endpoint. The REST resource will take in parameters using HTTP POST. The ratings and reviews data will be then added to a database table.
+Create a Spring Boot project that will offer movie tickets, shows, reviews and ratings for movies using a REST endpoint. The REST resource will take in parameters using HTTP POST. All data will be then added to a database table.
 
 ### 
 This project mainly deals with the Backend of Movie Review and Ticket Booking for customers.
